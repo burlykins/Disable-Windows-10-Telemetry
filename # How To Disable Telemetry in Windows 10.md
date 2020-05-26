@@ -39,7 +39,7 @@ This method for removing Microsoft's telemetry efforts is by far the easiest, as
 
 First, navagate to [https://ubuntu.com/] then select the "Downloads" drop down icon located at the top of the page's header.
 
->![Clicking on Downloads will drop down more options](Images/ubuntudownload2.PNG)
+>![Clicking on Downloads will drop down more options](Images/ubuntudownload2.png)
 
 Next click on the version of Ubuntu you'd like to install (*for the purposes of this walkthrough, we will be proceeding with 20.04 LTS*).
 
