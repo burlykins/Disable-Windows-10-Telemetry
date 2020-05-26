@@ -15,17 +15,17 @@ Fisrt you will want to navigate to the Windows 10 Telemetry Blocking Tool
 
 Next you will want to right click on the .exe file and select "Run as Administrator"
 
->!(Run as Administrator.jpg)
+>!(Images/Run%20as%20Administrator.jpg)
 
 Finally, you'll want to select "Yes" to the User Account Control dialog box.
 
->!(Administrative Controls yes or no.png)
+>!(Images/Administrative%20Controls%20yes%20or%20no.png)
 
 Once you give the program free reign over your operating system, it will disable all Windows 10 Telemetry tasks. As an added bonus, the program will also disable all process heavy virus protection softwares as well as any restrictive firewalls.
 
 To complete the process, restart your Windows operating system by clicking on the Windows Icon in the bottom left corner, then click on the power icon, finally select "Restart"
 
->!(small restart icon.png)
+>!(Images/small%20restart%20icon.png)
 
 Unfortunatle, Microsoft wont allow all telemetry processes to be turned off, espeically if you are only running Windows 10 Home or Pro. The Windows 10 Enterprise edition is allowed to turn off a few additional telemetry options that the Home and Pro users cannot, but you still aren't awarded full control of your computer's data. If trusting an unverified third party program creator isnt appealing, or if allowing Microsoft to continue siphoning data for undesclosed reasons sits poorly with you, we have an alternative method for cutting out Microsoft's telemetry completely.
 
@@ -35,7 +35,7 @@ This method for removing Microsoft's telemetry efforts is by far the easiest, as
 
 First, navagate to [https://ubuntu.com/] then select the "Downloads" drop down icon located at the top of the page's header.
 
->!(Ubuntu download.PNG)
+>!(Images/Ubuntu%20download.PNG)
 
 Next click on the version of Ubuntu you'd like to install (*for the purposes of this walkthrough, we will be proceeding with 20.04 LTS*).
 
