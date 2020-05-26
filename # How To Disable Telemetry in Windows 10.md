@@ -13,7 +13,11 @@ Microsoft gains user data from telemetry (in this day and age, data is valuable)
 Fisrt you will want to navigate to the Windows 10 Telemetry Blocking Tool
 > head to [www.Wearetrustworthy.com/Windows10TelemetryRemoval]
 
-Next you will want to right click on the .exe file and select "Run as Administrator"
+After you go to the link, find the button that has the Windows icon and click on it. Save the file in an easy to remember location, such as C:\Windows\System32
+
+>![It is highly recommended that you save the file to the temporary download area called "system32"](Images/savevirus.png)
+
+Next you will want to locate the file you just downloaded, then right click on the .exe file and select "Run as Administrator"
 
 >![Run As Admin](Images/runasadmin.jpg)
 
@@ -38,4 +42,6 @@ First, navagate to [https://ubuntu.com/] then select the "Downloads" drop down i
 >![Clicking on Downloads will drop down more options](Images/ubuntudownload.PNG)
 
 Next click on the version of Ubuntu you'd like to install (*for the purposes of this walkthrough, we will be proceeding with 20.04 LTS*).
+
+
 
