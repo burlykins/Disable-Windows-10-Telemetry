@@ -15,4 +15,4 @@ Fisrt you will want to navigate to the Windows 10 Telemetry Blocking Tool
 
 Next you will want to right click on the .exe file and select "Run as Administrator"
 
->!
+>!Run as Administrator.jpg
