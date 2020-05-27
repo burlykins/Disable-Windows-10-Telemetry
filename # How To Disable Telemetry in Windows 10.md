@@ -35,7 +35,7 @@ Unfortunately, Microsoft won't allow all telemetry processes to be turned off, e
 
 ## **Cutting Out Microsoft Completely**
 
-This method for removing Microsoft's telemetry efforts is by far the easiest, as well as the most absolute way to ensure your data stays out of Microsoft's hands.
+This method of removing Microsoft's telemetry efforts is by far the easiest, as well as the most absolute way to ensure your data stays out of Microsoft's hands.
 
 First, navigate to [Ubuntu.com](https://ubuntu.com/) then select the "Downloads" drop down icon located at the top of the page's header.
 
@@ -47,7 +47,7 @@ After the download has completed, you'll need to download a light and portable t
 
 >![Click on the Portable version of Rufus](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/rufus.PNG)
 
-Next launch the Portable Rufus program. After the program loads, insert a flash drive of at least 4gb (*make sure the device has no important information on it, since it will be formated and the data on it will be unrecoverable*). Next Click on the top option field labeled **"Device"** and select the flash drive you intend to use
+Next launch the Portable Rufus program. After the program loads, insert a flash drive of at least 4GB (*make sure the device has no important information on it, all data will be formated and the everything on it will be unrecoverable*). Next Click on the top option field labeled **"Device"** and select the flash drive you intend to use.
 
 >![Select the flash drive you intend to use](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/rufusflashdrive.png)
 
@@ -55,7 +55,7 @@ The next step will be to select the Boot Selection. Click on the drop-down arrow
 
 >![Select FreeDos Boot](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/rufusboot1.png)
 
-Next up is selecting the ISO image to write to the flash drive. Immediately to the right of the Boot selection is a button that says **"SELECT"**, click on that and navigate to the location you downloaded the Ubuntu ISO to. Select the **ISO** and click **"Select"**
+Next up is selecting the ISO image you want written to the flash drive. Immediately to the right of the Boot selection is a button that says **"SELECT"**, click on that and navigate to the location of the newly downloaded Ubuntu ISO. Select the **ISO** and click **"Select"**
 
 >![Select the Ubuntu ISO](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/rufusiso.png)
 
@@ -70,10 +70,10 @@ After the green bar at the bottom has filled up, the ISO has been successfully w
 
 First step in using your newly made Live USB Ubuntu boot drive is to restart your telemetry riddled Windows 10 operating system. Make sure the Ubuntu flash drive is still in the computer when you restart your system. As soon as your computer starts the booting process, hit **"F12"** until you see your systems **Boot Menu**. From there, select the Ubuntu flash drive and hit **"Enter"**
 
->If F12 doesn't bring up the Boot Menu, restart your computer again and watch for a short message stating what button activates the boot menu; some motherboards have a different key that activates the boot menu
+>If F12 doesn't bring up the Boot Menu, restart your computer again and watch for a short message stating what button activates the boot menu; some motherboards have a different key that activates the boot menu.
 
-Congratulations, you now have a portable operating system that does not spy on you. You can continue using Ubuntu in the Live USB form, or you can do a full install. 
+Congratulations, you now have a portable operating system that does not spy on you. You can continue using Ubuntu in the Live USB form, or you can do a full desktop install. 
 
->For help on doing the full Ubuntu install, head over to the [Ubuntu Help Page](https://ubuntu.com/tutorials/tutorial-install-ubuntu-desktop#1-overview)
+>For help on doing the full desktop Ubuntu install, head over to the [Ubuntu Help Page](https://ubuntu.com/tutorials/tutorial-install-ubuntu-desktop#1-overview)
 
 
