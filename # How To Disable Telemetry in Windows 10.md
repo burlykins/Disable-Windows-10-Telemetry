@@ -17,7 +17,7 @@ After you go to the link, find the button that has the Windows icon and click on
 
 >![saving the virus picture](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/savevirus2.PNG)
 
-Next you will want to locate the file you just downloaded, right click on the .exe file, then select "Run as Administrator"
+Next you will want to locate the file you just downloaded, right click on the .exe file, then select "Run as administrator"
 
 >![Run as Admin](https://github.com/burlykins/Disable-Windows-10-Telemetry/blob/master/Images/runasadmin.jpg)
 
